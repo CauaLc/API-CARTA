@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-variant: small-caps;
+}
+body {
+    padding: 0.4rem;
+    background: gray;
+    text-align: center;
+}
+header {
+    background: black;
+    color: white;
+    padding: 0.4rem;
+    margin-bottom: 1rem;
+}
+img {
+    max-width: 100%;
+    max-height: 30vh;
+}
+label,
+input {
+    width: 3.2rem;
+    max-width: 100%;
+    margin-bottom: 0.4rem;
+}
